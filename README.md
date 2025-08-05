@@ -24,9 +24,8 @@ starwars_tests/
 │   └── movie_detail_page.py
 ├── tests/
 │   ├── ui/                  # UI Test Cases
-│   │   ├── test_sort_movies.py
-│   │   └── test_planet_details.py		
-│   │   └── test_species_details.py
+│   │   ├── test_movie_movies.py
+│   │   
 │   └── api/                 # API Test Cases
 │       └── test_movies_list.py
 ├── conftest.py              # Pytest Fixtures
